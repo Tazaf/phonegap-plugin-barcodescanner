@@ -1,3 +1,9 @@
+# Modification apportés par ce Fork
+
+La [ligne 100 du fichier plugin.xml](https://github.com/Tazaf/phonegap-plugin-barcodescanner/commit/51810736a686f57069d18a7079e36fdfc59b0c2a#diff-53f390d375398624afe1cfe1125f42bfL100) a été commentée pour résoudre l'incompatibilité qu'elle causait avec l'utilisation du plugin Wikitude pour Cordova.
+
+
+
 # PhoneGap Plugin BarcodeScanner
 ================================
 
